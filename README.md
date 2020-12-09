@@ -15,4 +15,11 @@ Azure Repo - Contains information about Azure Cloud Services
 
 # Resources
 
+  My Repo
+  https://github.com/leoym/Cloud-Infra/blob/main/README.md
+  
+  Istio
+  https://istio.io/latest/docs/setup/platform-setup/azure/
+  
+
 
