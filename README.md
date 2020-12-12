@@ -21,5 +21,9 @@ Azure Repo - Contains information about Azure Cloud Services
   Istio
   https://istio.io/latest/docs/setup/platform-setup/azure/
   
+# Terraform
+
+  https://docs.microsoft.com/pt-br/azure/developer/terraform/create-linux-virtual-machine-with-infrastructure
+  
 
 
