@@ -30,11 +30,15 @@ Azure Repo - Contains information about Azure Cloud Services
 
 ## 6.1) Download and install Terraform
   * Install as ROOT
+  
   $ sudo su -
   
   $ wget https://releases.hashicorp.com/terraform/0.14.6/terraform_0.14.6_linux_amd64.zip
+  
   $ unzip terraform_0.14.6_linux_amd64.zip
+  
   $ cp terraform /usr/bin/
+  
   $ terraform -v
 
 ## 6.2) Download and install AZ CLI
